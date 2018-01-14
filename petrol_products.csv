@@ -1,0 +1,23 @@
+Production,Products,Product Name,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-11,2011-12*
+From Crude Oil,Light Distillates,LPG,5570,5525,6315,6732,6996,8091,7541,7335
+From Crude Oil,Light Distillates,Motor Spirit,11057,10502,12539,14167,16020,22537,26138,26890
+From Crude Oil,Light Distillates,Naphtha,14100,14509,16660,16440,14826,17105,17535,17176
+From Crude Oil,Light Distillates,SBPS / Hexane,81,98,79,82,81,67,78,80
+From Crude Oil,Light Distillates,Others,2138,1891,2590,2772,2380,3397,3905,6523
+From Crude Oil,Middle Distillates,Kerosene,9298,9078,8491,7794,8223,8545,7702,7475
+From Crude Oil,Middle Distillates,ATF,5201,6196,7805,9107,8071,9296,9570,10057
+From Crude Oil,Middle Distillates,HSD,45903,47572,53465,58361,62889,73281,78040,81901
+From Crude Oil,Middle Distillates,LDO,1546,923,803,671,606,472,590,502
+From Crude Oil,Middle Distillates,Others,561,663,661,716,520,2195,3870,3558
+From Crude Oil,Heavy Ends,Furnace Oil,10560,10320,12325,12638,14749,15828,18659,17755
+From Crude Oil,Heavy Ends,LSHS/HHS/RFO,4410,3985,3372,3166,2935,2518,1860,1701
+From Crude Oil,Heavy Ends,Total Fuel Oils,14970,14305,15697,15804,17684,18346,20519,19456
+From Crude Oil,Heavy Ends,Lube Oils,646,677,825,881,874,950,884,994
+From Crude Oil,Heavy Ends,Bitumen,3349,3576,3891,4507,4713,4889,4478,4610
+From Crude Oil,Heavy Ends,Petroleum Coke,3162,3182,3779,4129,4241,3709,2711,4480
+From Crude Oil,Heavy Ends,Paraffin Wax,64,63,63,64,69,64,61,81
+From Crude Oil,Heavy Ends,Other Waxes,4,3,5,7,5,3,6,7
+From Crude Oil,Heavy Ends,Total Waxes,68,66,68,71,74,67,67,88
+From Crude Oil,Heavy Ends,Others,1010,1085,1671,2778,2399,6753,6637,5582
+From Crude Oil,Crude Throughput,Crude Throughput,127416,130109,146551,156103,160772,192768,206003,211424
+From Natural Gas,LPG,LPG,2240,2185,2093,2060,2162,2243,2168,2213
